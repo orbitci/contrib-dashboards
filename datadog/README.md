@@ -11,9 +11,8 @@
 - In the new Datadog dashboard, used Ctrl+V to paste the copied contents
 - Datadog will prompt for confirmation before replacing the dashboard
 
-:::important
-Pasting the contents will overwrite the current dashboard layout.  
-To avoid losing changes, we recommend pasting into a scratch dashboard first, and 
-then copying specific widgets as needed.
-:::
+> **Important:**  
+> Pasting the contents will overwrite the current dashboard layout.
+> To avoid losing changes, we recommend pasting into a scratch dashboard first and 
+> then copying specific widgets as needed.
 
