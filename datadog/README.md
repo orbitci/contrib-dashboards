@@ -6,13 +6,14 @@
 
 ## Import Instructions
 
-- Create a new dashboard in Datadog
-- Open the desired JSON file in this repo and copy its contents (e.g., with Ctrl+C)
-- In the new Datadog dashboard, used Ctrl+V to paste the copied contents
-- Datadog will prompt for confirmation before replacing the dashboard
+- Open the relevant JSON file in this repository and copy its contents.
+- In Datadog, create a new dashboard or open the existing Orbit CI sample dashboard.
+- Paste the copied contents using **Ctrl+V**.
+- Datadog will ask for confirmation before applying the changes.
 
-> **Important:**  
-> Pasting the contents will overwrite the current dashboard layout.
-> To avoid losing changes, we recommend pasting into a scratch dashboard first and 
-> then copying specific widgets as needed.
+> **Important:**
+> Pasting will overwrite the current dashboard layout.
+> To avoid losing any existing widgets or configurations, we recommend maintaining a
+> separate dashboard, pasting the copied contents there, and then selectively copying
+> over specific widgets to your main dashboard as needed.
 
