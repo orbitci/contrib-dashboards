@@ -6,6 +6,7 @@ OTEL telemetry collected by the Orbit CI agent from CI/CD pipelines.
 ## Supported Platforms
 
 - [Datadog](./datadog) – JSON dashboards for Datadog's trace explorer and dashboards
+- [Elastic Cloud](./elastic) – JSON dashboards for Datadog's trace explorer and dashboards
 
 ## Contributing
 
